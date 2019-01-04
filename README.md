@@ -26,7 +26,7 @@ For more details see [GitHub Anglo](https://doimag.github.com/anglo/).
 
 ### Stages
 
-## First stage
+#### First stage
 
 Create project, documentations and first logic for start project.
 
