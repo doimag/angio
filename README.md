@@ -10,18 +10,26 @@ Some features for understand the project
 
 ```markdown
 
-1. Fast and secure (Work by c++)
+1. Fast and secure (Work on C++)
 2. Dynamic (Use ReactJS)
-3. Expansive (Comunication with JSON)
+3. Expansive (JavaScript + JSON)
+4. Usability (Easy and transparent workflow)
+5. Generate on multiple plataforms with React technologies
+6. Create Software in weeks
+7. Documentation and support
+8. Free use
+9. And more...
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Anglo](https://doimag.github.com/anglo/).
 
-### Jekyll Themes
+### Stages
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/doimag/angio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## First stage
+
+Create project, documentations and first logic for start project.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can help? Contact us at anglo@doimag.com.
