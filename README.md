@@ -1,6 +1,6 @@
-## Welcome to Anglo
+## Welcome to Angio
 
-You can create a complete software with Anglo, the arquitecture is based on C++ for fast performance and the visuallity in Javascript with ReactJS, both are powerfull languages. 
+You can create a complete software with Angio, the arquitecture is based on C++ for fast performance and the visuallity in Javascript with ReactJS, both are powerfull languages. 
 
 #### Now we say "Write once and ..." you know
 
@@ -22,7 +22,7 @@ Some features for understand the project
 
 ```
 
-For more details see [GitHub Anglo](https://doimag.github.com/anglo/).
+For more details see [GitHub Angio](https://doimag.github.com/anglo/).
 
 ### Stages
 
