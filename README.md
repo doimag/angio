@@ -2,28 +2,18 @@
 
 You can create a complete software with Anglo, the arquitecture is based on C++ for fast performance and the visuallity in Javascript with ReactJS, both are powerfull languages. 
 
-# Now we say "Write once and ..." you know
+### Now we say "Write once and ..." you know
 
 ### Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Some features for understand the project
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+1. Fast and secure (Work by c++)
+2. Dynamic (Use ReactJS)
+3. Expansive (Comunication with JSON)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
