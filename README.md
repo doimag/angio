@@ -2,7 +2,7 @@
 
 You can create a complete software with Angio, the arquitecture is based on C++ for fast performance and the visuallity in Javascript with ReactJS, both are powerfull languages. 
 
-#### Now we say "Write once and ..." you know
+#### Now we say "Write once and ..." you know how it ends
 
 ### Features
 
