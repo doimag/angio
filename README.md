@@ -1,8 +1,10 @@
 ## Welcome to Anglo
 
-You can create a complete software with Anglo, the arquitecture is based on C++ for fast performance and the visuallity in Javascript with ReactJS, both are powerfull languages. Now we say "Write once and ..." you know
+You can create a complete software with Anglo, the arquitecture is based on C++ for fast performance and the visuallity in Javascript with ReactJS, both are powerfull languages. 
 
-### Markdown
+# Now we say "Write once and ..." you know
+
+### Features
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
