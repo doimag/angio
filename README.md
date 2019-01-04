@@ -22,7 +22,7 @@ Some features for understand the project
 
 ```
 
-For more details see [GitHub Angio](https://doimag.github.io/anglo/).
+For more details see [GitHub Angio](https://doimag.github.io/angio/).
 
 ### Stages
 
@@ -32,4 +32,4 @@ Create project, documentations and first logic for start project.
 
 ### Support or Contact
 
-You can help? Contact us at anglo@doimag.com.
+You can help? Contact us at angio@doimag.com.
