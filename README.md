@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Anglo
 
-You can use the [editor on GitHub](https://github.com/doimag/angio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can create a complete software with Anglo, the arquitecture is based on C++ for fast performance and the visuallity in Javascript with ReactJS, both are powerfull languages. Now we say "Write once and ..." you know
 
 ### Markdown
 
