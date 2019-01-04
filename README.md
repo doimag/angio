@@ -22,7 +22,7 @@ Some features for understand the project
 
 ```
 
-For more details see [GitHub Angio](https://doimag.github.com/anglo/).
+For more details see [GitHub Angio](https://doimag.github.io/anglo/).
 
 ### Stages
 
